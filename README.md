@@ -1,3 +1,3 @@
 # Decimal To Hex
 
-Just a simple useful Decimal To Hex program I wanted to create because I was bored.
+Just a very simple & useful Decimal To Hex converter program I wanted to create because I was bored and wanted to improve my C# skills
